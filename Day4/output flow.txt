@@ -1,0 +1,31 @@
+Start Program
+↓
+Launch Chrome Browser
+↓
+Maximize Browser Window
+↓
+Open SauceDemo Website
+↓
+Wait for 2 Seconds
+↓
+Find Username Textbox
+↓
+Type Username → standard_user
+↓
+Find Password Textbox
+↓
+Type Password → secret_sauce
+↓
+Find Login Button
+↓
+Click Login Button
+↓
+Login Successful
+↓
+Products Page Opens
+↓
+Wait for 5 Seconds
+↓
+Close Browser
+↓
+End Program
